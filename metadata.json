@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MONAS - Per-Second Streaming Protocol",
+  "description": "The first per-second streaming protocol built on Monad. Turn seconds into salary with real-time micropayments.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
